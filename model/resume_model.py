@@ -40,3 +40,4 @@ class ResumeRequest(BaseModel):
 class StructuredResumeResponse(BaseModel):
     id: str
     data: ResumeData
+
